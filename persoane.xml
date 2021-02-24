@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persoane>
+    <persoana id="1">
+        <nume>Popescu</nume>
+        <prenume>Ion</prenume>
+        <varsta>23</varsta>
+        <adresa>
+            <strada>Teilor</strada>
+            <numar>10</numar>>
+            <localitate>Suceava</localitate>>
+            <judet>Suceava</judet>
+            <tara>Romania</tara>>
+        </adresa>   
+    </persoana>
+
+    <persoana id="2">
+        <nume>Popescu</nume>
+        <prenume>Mihai</prenume>
+        <varsta>20</varsta>
+        <adresa>
+            <strada>Teilor</strada>
+            <numar>11</numar>>
+            <localitate>Suceava</localitate>>
+            <judet>Suceava</judet>
+            <tara>Romania</tara>>
+        </adresa> 
+        <telefon>0740123456</telefon>>  
+    </persoana>
+</persoane>
